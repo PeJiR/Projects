@@ -3,4 +3,5 @@
 Please click on the link to view the file :<br> 
 https://1drv.ms/x/s!AjI3b8Rw5mf1oBPkVkfvCzOsJaAW?e=GneJ0R <br> 
 The file is available for free download.<br> 
-Please save a local copy in case you encounter any issues viewing it online.
+<br> 
+Note: Please save a local copy in case you encounter any issues viewing it online.
