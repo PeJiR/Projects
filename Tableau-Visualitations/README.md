@@ -1,6 +1,6 @@
 # ✨Tableau Visualitations✨
 Visit my Tableau Public account to view all of my visualizations.
-**##Tableau Public**:
+ 
 
 [My Profile](https://public.tableau.com/app/profile/roberto.perez2846) 
 
