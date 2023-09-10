@@ -1,7 +1,8 @@
 # ✨Tableau Visualitations✨
 Visit my Tableau Public account to view all of my visualizations.
+##Tableau Public
 
-[Tableau public profile](https://public.tableau.com/app/profile/roberto.perez2846) 
+[My Profile](https://public.tableau.com/app/profile/roberto.perez2846) 
 
 
 This Repository will hold all of the code and queries from the Portfolio Projects  .
