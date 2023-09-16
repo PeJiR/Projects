@@ -1,4 +1,4 @@
-# Portfolio-Projects
+# 💎 Portfolio-Projects
 Welcome to my portfolio projects folder! Here you will find a collection of my best work, demonstrating my skills and experience in Data Analysis..
 Portfolio Projects
 
