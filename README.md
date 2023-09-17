@@ -8,7 +8,7 @@ I have carefully selected these projects to showcase my diverse skill set and ab
 
 I invite you to explore my portfolio projects and learn more about my work. If you have any questions or would like to discuss a potential collaboration, please do not hesitate to contact me.
 
-## [Excel works](https://github.com/PeJiR/Portfolio-Projects/tree/main/Excel%20Jobs) 
-## [Tableau-Visualitations](https://github.com/PeJiR/Portfolio-Projects/tree/main/Tableau-Visualitations)
-## [Python/tic-tac-toe_Game](https://github.com/PeJiR/Harvard-University-Certificates/tree/main/Professional%20Certificate%20in_Computer%20Science%20for%20Python%20Programming/CS50-s-Introduction-to-Programming-with-Python/Final%20Project)
+### [Excel works](https://github.com/PeJiR/Portfolio-Projects/tree/main/Excel%20Jobs) 
+### [Tableau-Visualitations](https://github.com/PeJiR/Portfolio-Projects/tree/main/Tableau-Visualitations)
+### [Python/tic-tac-toe_Game](https://github.com/PeJiR/Harvard-University-Certificates/tree/main/Professional%20Certificate%20in_Computer%20Science%20for%20Python%20Programming/CS50-s-Introduction-to-Programming-with-Python/Final%20Project)
 
