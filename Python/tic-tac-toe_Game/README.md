@@ -1,8 +1,8 @@
 
-## Tic Tac Toe
+#✨ Tic Tac Toe ✨
  
 
-# Description:
+## Description:
 
 This project is a game of tic-tac-toe, implemented in Python. The game is played on a 3x3 grid, and two players take turns placing their marks (X or O) on the grid. The first player to get three of their marks in a row, column, or diagonal wins the game.
 
