@@ -8,4 +8,5 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ## [Excel works](https://github.com/PeJiR/Portfolio-Projects/tree/main/Excel%20Jobs) 
 ## [Tableau-Visualitations](https://github.com/PeJiR/Portfolio-Projects/tree/main/Tableau-Visualitations)
+## [Python/tic-tac-toe_Game](https://github.com/PeJiR/Portfolio-Projects/tree/main/Python/tic-tac-toe_Game)
 
