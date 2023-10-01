@@ -11,7 +11,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ## Table of Contents:
 
-- [Excel](#c)
+- [Excel](#excel)
 - [Python](#python)
 - [Tableau](#r)
 -
