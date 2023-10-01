@@ -30,6 +30,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ### Bots:
 
 ### Data Science:
+- [Employee's turnover costs calculation](https://github.com/PeJiR/employee-s-turnover-costs-calculation.git)
 
 ### Machine Learning:
 
