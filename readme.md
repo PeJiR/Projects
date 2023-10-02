@@ -31,6 +31,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ### Data Science:
 - [Employee's turnover costs calculation](https://github.com/PeJiR/employee-s-turnover-costs-calculation.git)
+- [Project Title: Tic-Tac-Toe Game in Python](https://github.com/PeJiR/Professional-Certificates/blob/main/Professional%20Certificate%20in_Computer%20Science%20for%20Python%20Programming/CS50-s-Introduction-to-Programming-with-Python/Final%20Project/README.md)
 - [Accenture-Data-Analytics-and-Visualization-Virtual-Internship](https://github.com/PeJiR/Accenture-Data-Analytics-and-Visualization-.git)
 
 ### Machine Learning:
