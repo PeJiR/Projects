@@ -19,7 +19,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ## Excel
 
-  - [KPI Dashboard](https://github.com/PeJiR/Excel.git)
+  - [Excel Dashboard for KPI Visualization](https://github.com/PeJiR/Excel.git)
 
 ## Python:
 
