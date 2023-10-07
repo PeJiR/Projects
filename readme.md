@@ -48,6 +48,8 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ## Tableau 
 - [Visualizations](https://github.com/PeJiR/Tableau-Visualitations)
+  
 ---
-P.S.
+### P.S.
+
 Please drop me an note with any feedback you have.
