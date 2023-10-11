@@ -20,32 +20,33 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ---
 
+
 ## Excel
 
   - [Excel Dashboard for KPI Visualization](https://github.com/PeJiR/Excel.git)
 
 ## Python:
-
+<!---
 ### Web Scraping:
 
 ### Web Applications:
 
 ### Bots:
-
+--->
 ### Data Science:
 - [Employee's turnover costs calculation](https://github.com/PeJiR/employee-s-turnover-costs-calculation.git)
-
+<!---
 ### Machine Learning:
 
 ### OpenCV:
 
 ### Deep Learning:
-
+--->
 ### Miscellaneous:
 - [Tic-Tac-Toe Game in Python](https://github.com/PeJiR/Professional-Certificates/blob/main/Professional%20Certificate%20in_Computer%20Science%20for%20Python%20Programming/CS50-s-Introduction-to-Programming-with-Python/Final%20Project/README.md)
-
+<!---
 ## R:
-
+--->
 ## Tableau 
 - [Visualizations](https://github.com/PeJiR/Tableau-Visualitations)
   
