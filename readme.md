@@ -14,7 +14,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 - [Excel](#excel)
 - [Python](#python)
 - [Tableau Viz ](#Tableau)
-- [R](#R)
+
 
 </td></tr></table>
 
