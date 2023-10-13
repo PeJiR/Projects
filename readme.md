@@ -43,7 +43,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ### Deep Learning:
 --->
 ### Miscellaneous:
-- [Tic-Tac-Toe Game in Python](https://github.com/PeJiR/Professional-Certificates/blob/main/Professional%20Certificate%20in_Computer%20Science%20for%20Python%20Programming/CS50-s-Introduction-to-Programming-with-Python/Final%20Project/README.md)
+- [Tic-Tac-Toe Game in Python](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50-s-Introduction-to-Programming-with-Python/Final%20Project)
 <!---
 ## R:
 --->
