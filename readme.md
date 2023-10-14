@@ -64,11 +64,11 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](pejir). You can also take a look at the [contributing guide](pejir).
----> 
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
+---> 
 <!---
 <a href="https://www.patreon.com/pejir">
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
