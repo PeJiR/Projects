@@ -15,7 +15,8 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 - [HTML/CSS](#HTML/CSS)
 - [Python](#python)
 - [Tableau Viz ](#Tableau)
-- [Autor]## Author
+- [Autor](#Author)
+
 
 
 </td></tr></table>
