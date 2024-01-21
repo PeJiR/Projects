@@ -12,7 +12,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ## Table of Contents:
 
 - [Excel](#excel)
-- [HTML](#HTML)
+- [Html](#html)
 - [Python](#python)
 - [Tableau Viz ](#Tableau)
   
@@ -28,7 +28,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 - [Excel Dashboard for KPI Visualization](https://github.com/PeJiR/Excel.git)
 
-## HTML/CSS:
+## Html
 - [Project_ Survey Form](https://codepen.io/Robeloper/full/OJqgbGP)
 
 ## Python:
