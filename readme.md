@@ -30,7 +30,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ## HTML and CSS:
   
-- [Project_ Survey Form](https://codepen.io/Robeloper/full/OJqgbGP)
+- [Survey Form](https://codepen.io/Robeloper/full/OJqgbGP)
 
 ## Python:
 <!---
