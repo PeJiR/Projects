@@ -12,10 +12,10 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ## Table of Contents:
 
 - [Excel](#excel)
-- [HTML/CSS](#HTML/CSS)
+- 
 - [Python](#python)
 - [Tableau Viz ](#Tableau)
-- [Autor](#Author)
+- 
 
 
 
