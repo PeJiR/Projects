@@ -30,7 +30,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ## HTML and CSS:
   
-- [Survey Form](https://codepen.io/Robeloper/full/OJqgbGP) <a href="https://codepen.io/Robeloper/full/OJqgbGP" target="_blank">Survey Form</a>
+- <a href="https://codepen.io/Robeloper/full/OJqgbGP" target="_blank">Survey Form</a>
 
 
 ## Python:
