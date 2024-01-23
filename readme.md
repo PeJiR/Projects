@@ -30,7 +30,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ## HTML and CSS:
   
-- <a href="https://codepen.io/Robeloper/full/OJqgbGP" target="_blank">Survey Form</a>
+- [Survey Form](https://github.com/PeJiR/Diplomes-Certifications/blob/main/IT/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/Certification%20Project_Survey%20Form/README.md)
 
 
 ## Python:
