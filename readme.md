@@ -30,8 +30,8 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ## HTML and CSS:
 - [Technical Documentation Page]()
-- [Dragon Ball tribute page 🐉 💥 🍜 ](https://github.com/PeJiR/Diplomes-Certifications/tree/main/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/Certification%20Project-Build%20a%20Tribute%20Page)
-- [Survey Form](https://github.com/PeJiR/Diplomes-Certifications/tree/main/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/Certification%20Project_Survey%20Form)
+- [Dragon Ball tribute page 🐉 💥 🍜 ](https://github.com/PeJiR/Diplomes-Certifications/tree/main/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/0.2.Certification%20Project-Build%20a%20Tribute%20Page)
+- [Survey Form](https://github.com/PeJiR/Diplomes-Certifications/tree/main/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/0.1.Certification%20Project_Survey%20Form)
 
 
 ## Python:
