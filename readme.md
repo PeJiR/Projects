@@ -59,7 +59,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ## R:
 --->
 ## Tableau 
-- [Visualizations](https://github.com/PeJiR/Tableau-Visualitations)
+- [Visualizations](https://github.com/PeJiR/Diplomes-Certifications/tree/main/Tableau-Visualitations)
   
 ---
 
