@@ -11,7 +11,6 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ## Table of Contents: 
 
-
 - [Excel](#excel)
 - [HTML/CSS](#html-and-css)
 - [Python](#python)
@@ -21,7 +20,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 </td></tr></table>
 
 <div>
- 
+ <br>
 </div>
 
 ---
