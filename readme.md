@@ -31,10 +31,6 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ## HTML and CSS:
 - [Personal Portfolio Webpage](https://github.com/PeJiR/Diplomes-Certifications/tree/main/HTML/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage)
-- [Product Landing Page](https://github.com/PeJiR/Diplomes-Certifications/tree/main/HTML/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/0.4.Product%20Landing%20Page)
-- [Technical Documentation Page](https://github.com/PeJiR/Diplomes-Certifications/tree/main/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/0.3.Certification_Project_Technical%20Documentation%20Page)
-- [Tribute web page](https://github.com/PeJiR/Diplomes-Certifications/tree/main/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/0.2.Certification%20Project-Build%20a%20Tribute%20Page)
-- [Survey Form](https://github.com/PeJiR/Diplomes-Certifications/tree/main/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/0.1.Certification%20Project_Survey%20Form)
 - [My First Personal Website](https://github.com/PeJiR/robertoportfolio.io)
 
 
