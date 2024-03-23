@@ -32,7 +32,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ## HTML and CSS:
 - [Portfolio Webpage **Freecodecamp Responsive Web Design Certificate Project**](https://github.com/PeJiR/Diplomes-Certifications/tree/main/HTML/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage)
-- 
+  
 
 
 
