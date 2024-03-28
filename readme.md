@@ -45,6 +45,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 
 ## Python:
+
 <!---
 ### Web Scraping:
 
@@ -52,12 +53,13 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ### Bots:
 --->
+
 ### Data Science:
 - [Uber-Data-Analytics-End-To-End-Data-Engineering-Project](https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git)
   
-<a href="https://codepen.io/Robeloper/full/ZEPRzZx">
-<img src="https://raw.githubusercontent.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/main/architecture.jpg" width="500px" height="250px">
+<a href="https://codepen.io/Robeloper/full/ZEPRzZx"><img src="https://raw.githubusercontent.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/main/architecture.jpg" width="500px" height="250px">
 </a>
+
 <!---
 ### Machine Learning:
 
@@ -65,18 +67,20 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ### Deep Learning:
 --->
+
 ### Miscellaneous:
 - [Tic-Tac-Toe Game in Python](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50-s-Introduction-to-Programming-with-Python/Final%20Project)
+
 <!---
 ## R:
 --->
+
 ## Tableau 
 - [Visualizations](https://github.com/PeJiR/Diplomes-Certifications/blob/main/Tableau-Visualitations/README.md)
   
-<a href="https://public.tableau.com/app/profile/roberto.perez2846">
- <img src="https://raw.githubusercontent.com/PeJiR/Diplomes-Certifications/main/Tableau-Visualitations/Tableau.png" width="500px" height="250px">
+<a href="https://github.com/PeJiR/Diplomes-Certifications/tree/main/Tableau-Visualitations"><img src="https://raw.githubusercontent.com/PeJiR/Diplomes-Certifications/main/Tableau-Visualitations/Tableau.png" width="500px" height="250px">
 </a>
----
+--->
 
 
 ## Author
