@@ -31,7 +31,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 - [Excel Dashboard for KPI Visualization](https://github.com/PeJiR/Excel.git)
 
 ## HTML and CSS:
-- [Portfolio Webpage (https://github.com/PeJiR/Diplomes-Certifications/tree/main/HTML/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage)
+- [Portfolio Webpage](https://github.com/PeJiR/Diplomes-Certifications/tree/main/HTML/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage)
   
 
 
