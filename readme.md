@@ -31,7 +31,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 - [Excel Dashboard for KPI Visualization](https://github.com/PeJiR/Excel.git)
 <a href="https://github.com/PeJiR/Excel.git">
-<img src="https://raw.githubusercontent.com/PeJiR/Excel/main/excel.png" width="auto"height="250px">
+<img src="https://raw.githubusercontent.com/PeJiR/Excel/main/excel.png" width="400px"height="250px">
 </a>
 
 
@@ -40,7 +40,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 - [Portfolio Webpage](https://github.com/PeJiR/Diplomes-Certifications/tree/main/HTML/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage)
   
 <a href="https://github.com/PeJiR/Diplomes-Certifications/tree/main/HTML/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage">
-<img src="https://raw.githubusercontent.com/PeJiR/Diplomes-Certifications/main/HTML/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage/photo.png" width="auto"height="250px">
+<img src="https://raw.githubusercontent.com/PeJiR/Diplomes-Certifications/main/HTML/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage/photo.png" width="400px"height="250px">
 </a>
 
   
@@ -60,7 +60,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ### Data Science:
 - [Uber-Data-Analytics-End-To-End-Data-Engineering-Project](https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git)
   
-<a href="https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git"><img src="https://raw.githubusercontent.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/main/architecture.jpg" width="auto" height="250px">
+<a href="https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git"><img src="https://raw.githubusercontent.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/main/architecture.jpg" width="400px" height="250px">
 </a>
 
 <!---
@@ -74,7 +74,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ### Miscellaneous:
 - [Tic-Tac-Toe Game in Python](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50-s-Introduction-to-Programming-with-Python/Final%20Project)
 <a href="https://github.com/PeJiR/Excel.git">
-<img src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tic-tac-toe.png" width="auto"height="250px">
+<img src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tic-tac-toe.png" width="400px"height="250px">
 </a>
 <!---
 ## R:
@@ -83,7 +83,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ## Tableau 
 - [Visualizations](https://github.com/PeJiR/Diplomes-Certifications/blob/main/Tableau-Visualitations/README.md)
   
-<a href="https://github.com/PeJiR/Diplomes-Certifications/tree/main/Tableau-Visualitations"><img src="https://raw.githubusercontent.com/PeJiR/Diplomes-Certifications/main/Tableau-Visualitations/Tableau.png" width="auto" height="250px">
+<a href="https://github.com/PeJiR/Diplomes-Certifications/tree/main/Tableau-Visualitations"><img src="https://raw.githubusercontent.com/PeJiR/Diplomes-Certifications/main/Tableau-Visualitations/Tableau.png" width="400px" height="250px">
 </a>
 
 
