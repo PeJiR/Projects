@@ -55,7 +55,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ### Data Science:
 - [Uber-Data-Analytics-End-To-End-Data-Engineering-Project](https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git)
   <a href="https://codepen.io/Robeloper/full/ZEPRzZx">
-  <img src="https://raw.githubusercontent.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/main/architecture.jpg" width="500px"height="250px">
+  <img src="https://raw.githubusercontent.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/main/architecture.jpg" width="500px" height="250px">
 </a>
 <!---
 ### Machine Learning:
@@ -71,7 +71,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 --->
 ## Tableau 
 - [Visualizations](https://github.com/PeJiR/Diplomes-Certifications/blob/main/Tableau-Visualitations/README.md)
-  <a href="https://public.tableau.com/app/profile/roberto.perez2846"><img src="https://raw.githubusercontent.com/PeJiR/Diplomes-Certifications/main/Tableau-Visualitations/Tableau.png" width="500px"height="250px">
+  <a href="https://public.tableau.com/app/profile/roberto.perez2846"><img src="https://raw.githubusercontent.com/PeJiR/Diplomes-Certifications/main/Tableau-Visualitations/Tableau.png" width="500px" height="250px">
 </a>
 ---
 
