@@ -54,6 +54,9 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 --->
 ### Data Science:
 - [Uber-Data-Analytics-End-To-End-Data-Engineering-Project](https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git)
+  <a href="https://codepen.io/Robeloper/full/ZEPRzZx">
+  <img src="https://raw.githubusercontent.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/main/architecture.jpg" width="auto">
+</a>
 <!---
 ### Machine Learning:
 
