@@ -71,7 +71,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 --->
 ## Tableau 
 - [Visualizations](https://github.com/PeJiR/Diplomes-Certifications/blob/main/Tableau-Visualitations/README.md)
-  <a href="https://public.tableau.com/app/profile/roberto.perez2846"><img src="Tableau.png">
+  <a href="https://public.tableau.com/app/profile/roberto.perez2846"><img src="https://raw.githubusercontent.com/PeJiR/Diplomes-Certifications/main/Tableau-Visualitations/Tableau.png" width="auto">
 </a>
 ---
 
