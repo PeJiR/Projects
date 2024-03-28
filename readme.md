@@ -36,6 +36,11 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ## HTML and CSS:
 - [Portfolio Webpage](https://github.com/PeJiR/Diplomes-Certifications/tree/main/HTML/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage)
   
+<a href="https://codepen.io/Robeloper/full/ZEPRzZx">
+  <img src="https://raw.githubusercontent.com/PeJiR/Diplomes-Certifications/main/HTML/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage/photo.png" width="auto">
+</a>
+
+  
 ## JavaScript:
 
 
