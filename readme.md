@@ -30,7 +30,8 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ## Excel:
 
 - [Excel Dashboard for KPI Visualization](https://github.com/PeJiR/Excel.git)
-<img src="https://github.com/PeJiR/Excel.git" width="500px"height="250px">
+<a href="https://github.com/PeJiR/Excel.git">
+<img src="https://raw.githubusercontent.com/PeJiR/Excel/main/excel.png" width="500px"height="250px">
 </a>
 
 
