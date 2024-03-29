@@ -64,9 +64,9 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 <a href="https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git"><img src="https://raw.githubusercontent.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/main/architecture.jpg" width="400px" height="250px">
 </a>
 
-- [Calculation of employee turnover costs](https://github.com/PeJiR/Calculation-of-employee-turnover-costs/blob/main/README.md)
+- [Calculation of employee turnover costs](https://github.com/PeJiR/Calculation-of-employee-turnover-costs/tree/main)
   
-<a href="https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git"><img src="https://github.com/PeJiR/Calculation-of-employee-turnover-costs/blob/main/project.png" width="400px" height="250px">
+<a href="https://github.com/PeJiR/Calculation-of-employee-turnover-costs/tree/main"><img src="https://github.com/PeJiR/Calculation-of-employee-turnover-costs/blob/main/project.png" width="400px" height="250px">
 </a>
 
 
