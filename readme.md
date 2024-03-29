@@ -57,7 +57,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ### Bots:
 --->
 
-### Data Science:
+## Data Science:
 
 - [Uber-Data-Analytics-End-To-End-Data-Engineering-Project](https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git)
   
