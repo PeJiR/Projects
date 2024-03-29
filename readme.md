@@ -58,6 +58,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 --->
 
 ### Data Science:
+
 - [Uber-Data-Analytics-End-To-End-Data-Engineering-Project](https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git)
   
 <a href="https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git"><img src="https://raw.githubusercontent.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/main/architecture.jpg" width="400px" height="250px">
@@ -73,9 +74,11 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ### Miscellaneous:
 - [Tic-Tac-Toe Game in Python](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50-s-Introduction-to-Programming-with-Python/Final%20Project)
+
 <a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50-s-Introduction-to-Programming-with-Python/Final%20Project">
 <img src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tic-tac-toe.png" width="400px"height="250px">
 </a>
+
 <!---
 ## R:
 --->
