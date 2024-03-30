@@ -13,7 +13,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 - [Excel](#excel)
 - [HTML/CSS](#html-and-css)
-- [JavaScript](#JavaScript)
+- [JavaScript](#javascript)
 - [Python](#python)
 - [Tableau Viz ](#Tableau)
 
