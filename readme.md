@@ -74,8 +74,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
  <br>
  </div>
  
-- ### [Homepage](https://github.com/PeJiR/robertoportfolio.io) a simple homepage using HTML, CSS, and JavaScript.
-
+- ### [Homepage](https://github.com/PeJiR/robertoportfolio.io)  
 <a href="https://github.com/PeJiR/robertoportfolio.io">
 <img src="https://github.com/PeJiR/robertoportfolio.io/raw/main/web.png" width="400px" height="250px">
 </a>
