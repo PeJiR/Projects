@@ -103,7 +103,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ## Tableau 
 - [Visualizations](https://github.com/PeJiR/Tableau-Visualitations)
   
-<a href="https://github.com/PeJiR/Tableau-Visualitations"><img src="https://raw.githubusercontent.com/PeJiR/Tableau-Visualitations/main/Tableau.png" width="400px" height="250px">
+<a href="https://github.com/PeJiR/Tableau-Visualitations/blob/main/Tableau(1).png?raw=true" width="400px" height="250px">
 </a>
 
 
