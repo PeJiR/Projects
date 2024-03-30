@@ -83,8 +83,8 @@ I invite you to explore my portfolio projects and learn more about my work. If y
  <br>
  </div>
 
-  
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/> JavaScript:
+   
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40" height="40"/>Javascript:
 
 - ### [Roman Numeral Converter](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures%20(Beta)/0.2%20Build%20a%20Roman%20Numeral%20Converter%20Project/README.md)
   
