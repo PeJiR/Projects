@@ -87,6 +87,12 @@ I invite you to explore my portfolio projects and learn more about my work. If y
   
 ## JavaScript:
 
+- [Roman Numeral Converter](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures%20(Beta)/0.2%20Build%20a%20Roman%20Numeral%20Converter%20Project/README.md)
+  
+<a href="https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures%20(Beta)/0.2%20Build%20a%20Roman%20Numeral%20Converter%20Project/README.md">
+<img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/8d28c1006a2164d2c2f88dc29a53ef8f75e9e257/images/logo.svg" width="400px" height="250px">
+</a>
+
 <div>
  <br>
 </div>
