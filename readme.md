@@ -33,7 +33,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 - JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/> 
 - CSS  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 - bootstrap <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="css3" width="40" height="40"/> 
-- HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+- HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 - C  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="css3" width="40" height="40"/>
 - Python  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="css3" width="40" height="40"/>
 - PyPI  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" alt="css3" width="40" height="40"/>
@@ -62,7 +62,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
  <br>
 </div>
 
-## HTML and CSS:
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>HTML and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>CSS:
 
 - [Portfolio Webpage](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage)
 
@@ -85,7 +85,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
  </div>
 
   
-## JavaScript:
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/> JavaScript:
 
 - [Roman Numeral Converter](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures%20(Beta)/0.2%20Build%20a%20Roman%20Numeral%20Converter%20Project/README.md)
   
@@ -97,7 +97,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
  <br>
 </div>
 
-## Python:
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="css3" width="40" height="40"/>Python:
 
 <!---
 ### Web Scraping:
