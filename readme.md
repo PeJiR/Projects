@@ -37,9 +37,9 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 
 ## HTML and CSS:
-- [Portfolio Webpage](https://github.com/PeJiR/Diplomes-Certifications/tree/main/HTML/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage)
+- [Portfolio Webpage](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage)
   
-<a href="https://github.com/PeJiR/Diplomes-Certifications/tree/main/HTML/freeCodeCamp%20(%F0%9F%94%A5)/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage">
+<a href="https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage">
 <img src="https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage/photo.png?raw=true" width="400px"height="250px">
 </a>
 
