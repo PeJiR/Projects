@@ -16,7 +16,11 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 - [JavaScript](#JavaScript)
 - [Python](#python)
 - [Tableau Viz ](#Tableau)
+
   
+<div>
+ <br>
+</div>
   
 </td></tr></table>
 
