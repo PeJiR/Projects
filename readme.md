@@ -53,7 +53,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ## Excel:
 
-- [Excel Dashboard for KPI Visualization](https://github.com/PeJiR/Excel.git)
+- ### [Excel Dashboard for KPI Visualization](https://github.com/PeJiR/Excel.git)
 <a href="https://github.com/PeJiR/Excel.git">
 <img src="https://raw.githubusercontent.com/PeJiR/Excel/main/excel.png" width="400px"height="250px">
 </a>
@@ -64,7 +64,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>HTML and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>CSS:
 
-- [Portfolio Webpage](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage)
+- ### [Portfolio Webpage](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage)
 
 <a href="https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage">
 <img src="https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage/photo.png?raw=true" width="400px" height="250px">
@@ -74,7 +74,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
  <br>
  </div>
  
-- [Homepage](https://github.com/PeJiR/robertoportfolio.io) a simple homepage using HTML, CSS, and JavaScript.
+- ### [Homepage](https://github.com/PeJiR/robertoportfolio.io) a simple homepage using HTML, CSS, and JavaScript.
 
 <a href="https://github.com/PeJiR/robertoportfolio.io">
 <img src="https://github.com/PeJiR/robertoportfolio.io/raw/main/web.png" width="400px" height="250px">
@@ -87,7 +87,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
   
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/> JavaScript:
 
-- [Roman Numeral Converter](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures%20(Beta)/0.2%20Build%20a%20Roman%20Numeral%20Converter%20Project/README.md)
+- ### [Roman Numeral Converter](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures%20(Beta)/0.2%20Build%20a%20Roman%20Numeral%20Converter%20Project/README.md)
   
 <a href="https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures%20(Beta)/0.2%20Build%20a%20Roman%20Numeral%20Converter%20Project/README.md">
 <img src="https://raw.githubusercontent.com/PeJiR/Portfolio_Full.Stack.ASTRO/8d28c1006a2164d2c2f88dc29a53ef8f75e9e257/images/logo.svg" width="400px" height="250px">
@@ -113,7 +113,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ### Data Science:
 
-- [Uber-Data-Analytics-End-To-End-Data-Engineering-Project](https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git)
+- ### [Uber-Data-Analytics-End-To-End-Data-Engineering-Project](https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git)
   
 <a href="https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git">
 <img src="https://raw.githubusercontent.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/main/architecture.jpg" width="400px" height="250px">
@@ -123,7 +123,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
  <br>
  </div>
 
-- [Calculation of employee turnover costs](https://github.com/PeJiR/Calculation-of-employee-turnover-costs/tree/main)
+- ### [Calculation of employee turnover costs](https://github.com/PeJiR/Calculation-of-employee-turnover-costs/tree/main)
   
 <a href="https://github.com/PeJiR/Calculation-of-employee-turnover-costs/tree/main">
 <img src="https://github.com/PeJiR/Calculation-of-employee-turnover-costs/blob/main/project.png" width="400px" height="250px">
@@ -143,7 +143,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 </div>
 
 ### Miscellaneous:
-- [Tic-Tac-Toe Game in Python](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Final%20Project)
+- ### [Tic-Tac-Toe Game in Python](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Final%20Project)
 
 <a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Final%20Project">
 <img src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tic-tac-toe.png" width="400px"height="250px">
@@ -158,7 +158,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 </div>
 
 ## Tableau 
-- [Visualizations](https://github.com/PeJiR/Tableau-Visualitations/tree/main)
+- ### [Visualizations](https://github.com/PeJiR/Tableau-Visualitations/tree/main)
   
 <a href="https://github.com/PeJiR/Tableau-Visualitations/tree/main">
 <img src="https://github.com/PeJiR/Tableau-Visualitations/blob/main/Tableau(1).png?raw=true" width="400px"height="250px">
