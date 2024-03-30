@@ -55,21 +55,27 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ## HTML and CSS:
 
 - [Portfolio Webpage](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage)
-  
+
 <a href="https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage">
-<img src="https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage/photo.png?raw=true" width="400px"height="250px">
+<img src="https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage/photo.png?raw=true" width="400px" height="250px">
 </a>
-
-
-- [Homepage](https://github.com/PeJiR/robertoportfolio.io) a simple homepage using HTML, CSS, and JavaScript.
   
+ <br></br>
+ 
+- [Homepage](https://github.com/PeJiR/robertoportfolio.io) a simple homepage using HTML, CSS, and JavaScript.
+
 <a href="https://github.com/PeJiR/robertoportfolio.io">
-<img src="https://github.com/PeJiR/robertoportfolio.io/raw/main/web.png" width="400px"height="250px">
+<img src="https://github.com/PeJiR/robertoportfolio.io/raw/main/web.png" width="400px" height="250px">
 </a>
+
+<div>
+ <p>
+    
+ </p>
+</div>
 
   
 ## JavaScript:
-
 
 ## Python:
 
@@ -85,12 +91,14 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 - [Uber-Data-Analytics-End-To-End-Data-Engineering-Project](https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git)
   
-<a href="https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git"><img src="https://raw.githubusercontent.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/main/architecture.jpg" width="400px" height="250px">
+<a href="https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git">
+<img src="https://raw.githubusercontent.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/main/architecture.jpg" width="400px" height="250px">
 </a>
 
 - [Calculation of employee turnover costs](https://github.com/PeJiR/Calculation-of-employee-turnover-costs/tree/main)
   
-<a href="https://github.com/PeJiR/Calculation-of-employee-turnover-costs/tree/main"><img src="https://github.com/PeJiR/Calculation-of-employee-turnover-costs/blob/main/project.png" width="400px" height="250px">
+<a href="https://github.com/PeJiR/Calculation-of-employee-turnover-costs/tree/main">
+<img src="https://github.com/PeJiR/Calculation-of-employee-turnover-costs/blob/main/project.png" width="400px" height="250px">
 </a>
 
 
