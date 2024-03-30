@@ -11,11 +11,11 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ## Table of Contents: 
 
-- [Excel](#excel)
-- [HTML/CSS](#html-and-css)
-- [JavaScript](#javascript)
-- [Python](#python)
-- [Tableau Viz ](#Tableau)
+#### - [Excel](#excel)
+#### - [HTML/CSS](#html-and-css)
+#### - [JavaScript](#javascript)
+#### - [Python](#python)
+#### - [Tableau Viz ](#Tableau)
 
   
 <div>
