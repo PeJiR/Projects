@@ -43,6 +43,10 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 - Codepen  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" alt="css3" width="40" height="40"/>
 - Debian   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="css3" width="40" height="40"/>
 
+<div>
+ <br>
+</div>
+
 ## Excel:
 
 - [Excel Dashboard for KPI Visualization](https://github.com/PeJiR/Excel.git)
@@ -50,7 +54,9 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 <img src="https://raw.githubusercontent.com/PeJiR/Excel/main/excel.png" width="400px"height="250px">
 </a>
 
-
+<div>
+ <br>
+</div>
 
 ## HTML and CSS:
 
@@ -60,7 +66,9 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 <img src="https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage/photo.png?raw=true" width="400px" height="250px">
 </a>
   
- <br></br>
+ <div>
+ <br>
+ </div>
  
 - [Homepage](https://github.com/PeJiR/robertoportfolio.io) a simple homepage using HTML, CSS, and JavaScript.
 
@@ -68,14 +76,16 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 <img src="https://github.com/PeJiR/robertoportfolio.io/raw/main/web.png" width="400px" height="250px">
 </a>
 
-<div>
- <p>
-    
- </p>
-</div>
+ <div>
+ <br>
+ </div>
 
   
 ## JavaScript:
+
+<div>
+ <br>
+</div>
 
 ## Python:
 
@@ -87,6 +97,10 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ### Bots:
 --->
 
+<div>
+ <br>
+</div>
+
 ### Data Science:
 
 - [Uber-Data-Analytics-End-To-End-Data-Engineering-Project](https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git)
@@ -94,6 +108,10 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 <a href="https://github.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project.git">
 <img src="https://raw.githubusercontent.com/PeJiR/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/main/architecture.jpg" width="400px" height="250px">
 </a>
+
+ <div>
+ <br>
+ </div>
 
 - [Calculation of employee turnover costs](https://github.com/PeJiR/Calculation-of-employee-turnover-costs/tree/main)
   
@@ -110,6 +128,10 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ### Deep Learning:
 --->
 
+<div>
+ <br>
+</div>
+
 ### Miscellaneous:
 - [Tic-Tac-Toe Game in Python](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Final%20Project)
 
@@ -121,6 +143,10 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ## R:
 --->
 
+<div>
+ <br>
+</div>
+
 ## Tableau 
 - [Visualizations](https://github.com/PeJiR/Tableau-Visualitations/tree/main)
   
@@ -128,6 +154,9 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 <img src="https://github.com/PeJiR/Tableau-Visualitations/blob/main/Tableau(1).png?raw=true" width="400px"height="250px">
 </a>
 
+<div>
+ <br>
+ </div>
 
 
 ## Author
