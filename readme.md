@@ -37,7 +37,7 @@ CSS  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c
 bootstrap <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="css3" width="40" height="40"/> 
 HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 Flask   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="css3" width="40" height="40"/>
-Node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="html5" width="40" height="40"/>
+Node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="html5" width="40" height="40"/>
 React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="html5" width="40" height="40"/>
 Express.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="html5" width="40" height="40"/>
 Codepen  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" alt="css3" width="40" height="40"/>
