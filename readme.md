@@ -49,7 +49,8 @@ NumPI   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nump
 scikitlearn   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="css3" width="40" height="40"/>
 mySQL   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="css3" width="40" height="40"/>
 SQLite   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="css3" width="40" height="40"/>
-PostgreSQL Database <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="html5" width="40" height="40"/> RESTful API Design 
+PostgreSQL Database <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+RESTful API Design 
 
 VSCode<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="css3" width="40" height="40"/>
 git  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="css3" width="40" height="40"/>
