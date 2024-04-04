@@ -153,9 +153,9 @@ Debian<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian
 </div>
 
 ### Miscellaneous:
-- ### [Tic-Tac-Toe Game in Python](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Final%20Project)
+- ### [Tic-Tac-Toe Game in Python](https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%209_Et%20Cetera%20-Final%20Project)
 
-<a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Final%20Project">
+<a href="https://github.com/PeJiR/Harvard-s-Professional-Certificate-in-Computer-Science-for-Python-Programming/tree/main/CS50P%20%7C%20Introduction-to-Programming-with-Python/Problem%20Set%209_Et%20Cetera%20-Final%20Project">
 <img src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tic-tac-toe.png" width="400px"height="250px">
 </a>
 
