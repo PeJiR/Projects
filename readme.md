@@ -107,12 +107,9 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 <img src="https://raw.githubusercontent.com/PeJiR/Social-media-dashboard-with-theme-switcher/main/photo.png" width="400px" height="250px">
 </a>
 
-
 <div>
 <br>
 </div>
-
-
 
    
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40" height="40"/>Javascript:
@@ -159,7 +156,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 <img src="https://github.com/PeJiR/Calculation-of-employee-turnover-costs/blob/main/project.png" width="400px" height="250px">
 </a>
 
-
+ 
 <!---
 ### Machine Learning:
 
