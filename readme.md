@@ -102,9 +102,14 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 #### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="html5" width="40" height="40"/>React:
 - ### [Social media dashboard with theme switcher](https://github.com/PeJiR/Social-media-dashboard-with-theme-switcher/blob/main/README.md)
 
- <div>
- <br>
- </div>
+<a href="https://github.com/PeJiR/Social-media-dashboard-with-theme-switcher/tree/main">
+<img src="https://raw.githubusercontent.com/PeJiR/Social-media-dashboard-with-theme-switcher/main/photo.png" width="400px" height="250px">
+</a>
+
+
+<div>
+<br>
+</div>
 
 
 
