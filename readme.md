@@ -93,6 +93,21 @@ I invite you to explore my portfolio projects and learn more about my work. If y
  <br>
  </div>
 
+### Web Applications:
+
+ <div>
+ <br>
+ </div>
+
+#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="html5" width="40" height="40"/>React:
+- ### [Social media dashboard with theme switcher](https://github.com/PeJiR/Social-media-dashboard-with-theme-switcher/blob/main/README.md)
+
+ <div>
+ <br>
+ </div>
+
+
+
    
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40" height="40"/>Javascript:
 
