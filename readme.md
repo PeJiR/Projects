@@ -72,6 +72,17 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>HTML and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>CSS:
 
+- ####  [ Intro section with dropdown navigation](https://github.com/PeJiR/Social-media-dashboard-with-theme-switcher/blob/main/README.md)
+
+
+<a href="https://github.com/PeJiR/Social-media-dashboard-with-theme-switcher/tree/main">
+<img src="https://raw.githubusercontent.com/PeJiR/intro-section-with-dropdown-navigation-main/main/screenshots/photo2.png" width="400px" height="250px">
+</a>
+
+<div>
+<br>
+</div>
+
 - ####  [Portfolio Webpage](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage)
   Single-page website built using basic HTML and CSS for the FreeCodeCamp Responsive Web Design Certificate.
 
@@ -111,17 +122,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
  <br>
  </div>
 
-#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="html5" width="40" height="40"/>React:
-- ####  [Social media dashboard with theme switcher](https://github.com/PeJiR/Social-media-dashboard-with-theme-switcher/blob/main/README.md)
- Intro section with dropdown navigation
 
-<a href="https://github.com/PeJiR/Social-media-dashboard-with-theme-switcher/tree/main">
-<img src="https://pejir.github.io/intro-section-with-dropdown-navigation-main/" width="400px" height="250px">
-</a>
-
-<div>
-<br>
-</div>
 
    
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40" height="40"/>Javascript:
