@@ -72,10 +72,10 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>HTML and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>CSS:
 
-- ####  [ Intro section with dropdown navigation](https://github.com/PeJiR/Social-media-dashboard-with-theme-switcher/blob/main/README.md)
+- ####  [ Intro section with dropdown navigation](https://github.com/PeJiR/intro-section-with-dropdown-navigation-main/tree/main)
 
 
-<a href="https://github.com/PeJiR/Social-media-dashboard-with-theme-switcher/tree/main">
+<a href="https://github.com/PeJiR/intro-section-with-dropdown-navigation-main/tree/main">
 <img src="https://raw.githubusercontent.com/PeJiR/intro-section-with-dropdown-navigation-main/main/screenshots/photo2.png" width="400px" height="250px">
 </a>
 
