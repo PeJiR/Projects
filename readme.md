@@ -96,7 +96,7 @@ A single-page website built using basic HTML and CSS for the FreeCodeCamp Respon
  </div>
  
 - #### [Homepage](https://github.com/PeJiR/robertoportfolio.io)
-  This is my first website, made by tweaking a ready-made template.
+This is my first website, made by tweaking a ready-made template.
 <a href="https://github.com/PeJiR/robertoportfolio.io">
 <img src="https://github.com/PeJiR/robertoportfolio.io/raw/main/web.png" width="400px" height="250px">
 </a>
@@ -113,7 +113,7 @@ A single-page website built using basic HTML and CSS for the FreeCodeCamp Respon
 
 #### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="html5" width="40" height="40"/>React:
 - ####  [Social media dashboard with theme switcher](https://github.com/PeJiR/Social-media-dashboard-with-theme-switcher/blob/main/README.md)
-  A Responsive Grid-Based Social Media Dashboard with Theme Switcher
+A Responsive Grid-Based Social Media Dashboard with Theme Switcher
 
 <a href="https://github.com/PeJiR/Social-media-dashboard-with-theme-switcher/tree/main">
 <img src="https://raw.githubusercontent.com/PeJiR/Social-media-dashboard-with-theme-switcher/main/photo.png" width="400px" height="250px">
