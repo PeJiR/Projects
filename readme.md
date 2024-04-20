@@ -85,7 +85,7 @@ In this challenge I will test my ability to create dropdown navigation menus, a 
 </div>
 
 - ####  [Portfolio Webpage](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage)
-  Single-page website built using basic HTML and CSS for the FreeCodeCamp Responsive Web Design Certificate.
+A single-page website built using basic HTML and CSS for the FreeCodeCamp Responsive Web Design Certificate.
 
 <a href="https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/tree/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage">
 <img src="https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/Responsive%20Web%20Design/0.5%20Personal%20Portfolio%20Webpage/photo.png?raw=true" width="400px" height="250px">
