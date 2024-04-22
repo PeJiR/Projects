@@ -73,7 +73,7 @@ I invite you to explore my portfolio projects and learn more about my work. If y
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>HTML and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>CSS:
 
 - ####  [ Intro section with dropdown navigation](https://github.com/PeJiR/intro-section-with-dropdown-navigation-main/tree/main)
-In this challenge I will test my ability to create dropdown navigation menus, a common pattern on larger sites.
+In this challenge I have tested my ability to create dropdown navigation menus, a common pattern on larger sites.
 
 
 <a href="https://github.com/PeJiR/intro-section-with-dropdown-navigation-main/tree/main">
