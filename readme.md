@@ -129,7 +129,7 @@ A Responsive Grid-Based Social Media Dashboard with Theme Switcher
  <br>
 </div>
 
-####  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="css3" width="40" height="40"/>Python:
+##  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="css3" width="40" height="40"/>Python:
 
 <!---
 ### Web Scraping:
