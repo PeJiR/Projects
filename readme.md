@@ -103,6 +103,7 @@ A single-page website built using basic HTML and CSS for the FreeCodeCamp Respon
  </div>
 
 #### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="html5" width="40" height="40"/>React:
+
 - ####  [Social media dashboard with theme switcher](https://github.com/PeJiR/Social-media-dashboard-with-theme-switcher/blob/main/README.md)
 A Responsive Grid-Based Social Media Dashboard with Theme Switcher
 
@@ -118,6 +119,16 @@ A Responsive Grid-Based Social Media Dashboard with Theme Switcher
 
    
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40" height="40"/>Javascript:
+
+- ####  [Pokémon Search App](https://codepen.io/Robeloper/full/RwmbzPN)
+  
+<a href="https://codepen.io/Robeloper/full/RwmbzPN">
+<img src="https://raw.githubusercontent.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/main/JavaScript%20Algorithms%20and%20Data%20Structures%20(Beta)/Projects/0.5%20Build%20a%20Pok%C3%A9mon%20Search%20App%20Project/image.png" width="400px" height="250px">
+</a>
+
+<div>
+ <br>
+</div>
 
 - ####  [Roman Numeral Converter](https://github.com/PeJiR/freeCodeCamp--Full-Stack-Web-Development-Certification-Computer-Software-Engineering/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures%20(Beta)/0.2%20Build%20a%20Roman%20Numeral%20Converter%20Project/README.md)
   
