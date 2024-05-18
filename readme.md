@@ -114,7 +114,7 @@ A Responsive Grid-Based Social Media Dashboard with Theme Switcher
  #### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="html5" width="40" height="40"/>Flask:
 
 - ####  [Mail Web server](https://github.com/PeJiR/CS50-s-Introduction-to-Computer-Science_Final_Project)
-Introducing a sleek and user-friendly web mail server, designed and developed by Roberto Perez as his final project for CS50's Introduction to Computer Science course.
+Introducing a sleek and user-friendly web mail server, designed and developed as final project for CS50's Introduction to Computer Science course.
 
 <a href="https://github.com/PeJiR/CS50-s-Introduction-to-Computer-Science_Final_Project">
 <img src="https://raw.githubusercontent.com/PeJiR/CS50-s-Introduction-to-Computer-Science_Final_Project/main/images/Screenshot%20from%202024-05-18%2018-11-53.png" width="400px" height="250px">
