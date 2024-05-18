@@ -113,11 +113,11 @@ A Responsive Grid-Based Social Media Dashboard with Theme Switcher
 
  #### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="html5" width="40" height="40"/>Flask:
 
-- ####  [Social media dashboard with theme switcher](https://github.com/PeJiR/Social-media-dashboard-with-theme-switcher/blob/main/README.md)
-A Responsive Grid-Based Social Media Dashboard with Theme Switcher
+- ####  [Mail Web server](https://github.com/PeJiR/CS50-s-Introduction-to-Computer-Science_Final_Project)
+Mail Web server
 
-<a href="https://github.com/PeJiR/Social-media-dashboard-with-theme-switcher/tree/main">
-<img src="https://raw.githubusercontent.com/PeJiR/Social-media-dashboard-with-theme-switcher/main/photo.png" width="400px" height="250px">
+<a href="https://github.com/PeJiR/CS50-s-Introduction-to-Computer-Science_Final_Project">
+<img src="https://raw.githubusercontent.com/PeJiR/CS50-s-Introduction-to-Computer-Science_Final_Project/main/images/Screenshot%20from%202024-05-18%2018-11-53.png" width="400px" height="250px">
 </a>
 
  <div>
