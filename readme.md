@@ -1,5 +1,5 @@
 
-#  Guided Projects
+# Projects
  
 <table border=1 cellpadding=10><tr><td>  
   
@@ -99,6 +99,19 @@ A single-page website built using basic HTML and CSS for the FreeCodeCamp Respon
  </div>
 
 #### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="html5" width="40" height="40"/>React:
+
+- ####  [Social media dashboard with theme switcher](https://github.com/PeJiR/Social-media-dashboard-with-theme-switcher/blob/main/README.md)
+A Responsive Grid-Based Social Media Dashboard with Theme Switcher
+
+<a href="https://github.com/PeJiR/Social-media-dashboard-with-theme-switcher/tree/main">
+<img src="https://raw.githubusercontent.com/PeJiR/Social-media-dashboard-with-theme-switcher/main/photo.png" width="400px" height="250px">
+</a>
+
+ <div>
+ <br>
+ </div>
+
+ #### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="html5" width="40" height="40"/>Flask:
 
 - ####  [Social media dashboard with theme switcher](https://github.com/PeJiR/Social-media-dashboard-with-theme-switcher/blob/main/README.md)
 A Responsive Grid-Based Social Media Dashboard with Theme Switcher
